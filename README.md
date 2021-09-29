@@ -1,2 +1,2 @@
-# class-40
-coins,fuel,obstacles
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
